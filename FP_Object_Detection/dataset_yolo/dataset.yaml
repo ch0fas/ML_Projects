@@ -1,0 +1,6 @@
+train: C:\Users\denis\Documents\Object_det\dataset_yolo/images/train
+val: C:\Users\denis\Documents\Object_det\dataset_yolo/images/val
+test: C:\Users\denis\Documents\Object_det\dataset_yolo/images/test
+
+nc: 7
+names: ['car', 'truck', 'bus', 'pedestrian', 'cyclist', 'traffic light', 'traffic sign']
